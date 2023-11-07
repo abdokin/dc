@@ -1,0 +1,3 @@
+fn main(int argc,int[] argv) int {
+    return 0;
+}
